@@ -1,0 +1,148 @@
+﻿Name,Region,ISO_3166_Num,ISO_3166,Country,Business Model,Network Sharing Architecture,Network Technology,Deployment Scenario,Otro
+YOTA,Europe,643,RUS,Russia,Single Wholesale Network,MNO/MVNO Wholesale,4G,"Rural, Ultra-Rural, Low-ARPU Urban",1
+Kenya Single Wholesale Network,Africa & Middle East,404,KEN,Kenya,Single Wholesale Network,MOCN,4G,"Rural, Ultra-Rural, Low-ARPU Urban",2
+Altan Redes,Latin America,484,MEX,Mexico,Single Wholesale Network,"MNO/MVNO Wholesale, MOCN",4G,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban",3
+Open fiber,Europe,380,ITA,Italy,Fixed OAN,FTTH wholesale|IP/Ethernet Services|Wavelength Service,"GPON, Ethernet, DWDM","Rural, Ultra-Rural, Low-ARPU Urban",2
+KT Rwanda Networks Ltd,Africa & Middle East,646,RWA,Rwanda,Single Wholesale Network,MNO/MVNO Wholesale,4G,"Rural, Ultra-Rural, Low-ARPU Urban",3
+KT Rwanda Networks Ltd,Africa & Middle East,646,RWA,Rwanda,Fixed OAN,IP/Ethernet Services,Ethernet,"Rural, Ultra-Rural, Low-ARPU Urban",3
+Red Dorsal,Latin America,604,PER,Peru,Fixed OAN,Dark Fiber Leasing,DWDM,"Rural, Ultra-Rural, Low-ARPU Urban",4
+National Broadband Network (NBN),Asia Pacific,36,AUS,Australia,Fixed OAN,FTTH Wholesale|IP/Ethernet Services,"GPON, Ethernet, Satellite","Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban",3
+dstelecom,Europe,620,PRT,Portugal,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing | IP/Ethernet Services,"GPON, Ethernet","Rural, Ultra-Rural",2
+EstWin,Europe,233,EST,Estonia,Fixed OAN,Dark Fiber Leasing|IP/IP/Ethernet Services,Ethernet,"Rural, Ultra-Rural",1
+Malaysian Single Wholesale Network,Asia Pacific,458,MYS,Malaysia,Mobile OAN,MNO/MVNO Wholesale,5G,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban",2
+Csquared,Africa & Middle East,288,GHA,Ghana,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing,GPON,"Rural, Ultra-Rural, Low-ARPU Urban",2
+Csquared,Africa & Middle East,800,UGA,Uganda,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing,GPON,"Rural, Ultra-Rural, Low-ARPU Urban",2
+Csquared,Africa & Middle East,430,LBR,Liberia,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing,GPON,"Rural, Ultra-Rural, Low-ARPU Urban",2
+UK Shared Rural Network (SRN),Europe,826,GBR,United Kingdom,Mobile OAN,MNO/MVNO Wholesale | Roaming,4G,"Rural, Ultra-Rural",6
+Brunei’s Unified National Networks,Asia Pacific,96,BRN,Brunei Darussalam,Single Wholesale Network,MNO/MVNO Wholesale,"2G, 3G, 4G","Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban",2
+Internet Para Todos,Latin America,604,PER,Peru,Independent Mobile NaaSCo,MORAN,"2G, 3G, 4G","Rural, Ultra-Rural",4
+Edotco,Asia Pacific,458,MYS,Malaysia,Independent Mobile NaaSCo,N/A,4G,"Rural, Low-ARPU urban",2
+Finnish Shared Network,Europe,246,FIN,Finland,Joint Venture,MOCN,"2G, 3G, 4G, 5G",Rural and Ultra-Rural,1
+TEPCO,Asia Pacific,392,JPN,Japan,Independent Mobile NaaSCo,MORAN/MOCN,5G,Low-ARPU Urban and High-ARPU Urban,1
+NURAN,Africa & Middle East,728,SSD,South Sudan,Independent Mobile NaaSCo,N/A,,"Rural, Ultra-Rural",2
+NURAN,Africa & Middle East,180,COD,Democratic Republic of the Congo,Independent Mobile NaaSCo,N/A,2G,"Rural, Ultra-Rural",3
+NURAN,Africa & Middle East,266,GAB,Gabon,Independent Mobile NaaSCo,N/A,2G,"Rural, Ultra-Rural",1
+NURAN,Africa & Middle East,120,CMR,Cameroon,Independent Mobile NaaSCo,N/A,2G,"Rural, Ultra-Rural",2
+NURAN,Africa & Middle East,466,MLI,Mali,Independent Mobile NaaSCo,N/A,,"Rural, Ultra-Rural",1
+NURAN,Africa & Middle East,694,SLE,Sierra Leone,Independent Mobile NaaSCo,N/A,"2G,3G","Rural, Ultra-Rural",1
+NURAN,Africa & Middle East,288,GHA,Ghana,Independent Mobile NaaSCo,N/A,,"Rural, Ultra-Rural",2
+Wireless Infrastructure Group – Aberdeen,Europe,826,GBR,United Kingdom,Independent Mobile NaaSCo,MORAN/MOCN,5G,Low-ARPU Urban,6
+Liquid Telecom,Africa & Middle East,710,ZAF,South Africa,Independent Mobile NaaSCo,MNO/MVNO Wholesale,5G,Low-ARPU Urban,3
+Africa Mobile Network (AMN),Africa & Middle East,120,CMR,Cameroon,Independent Mobile NaaSCo,N/A,"2G, 3G, 4G","Rural, Ultra-Rural",2
+Africa Mobile Network (AMN),Africa & Middle East,204,BEN,Benin,Independent Mobile NaaSCo,N/A,"2G, 3G, 4G","Rural, Ultra-Rural",1
+Africa Mobile Network (AMN),Africa & Middle East,624,GNB,Guinea-Bissau,Independent Mobile NaaSCo,N/A,"2G, 3G, 4G","Rural, Ultra-Rural",1
+Africa Mobile Network (AMN),Africa & Middle East,180,COD,Democratic Republic of the Congo,Independent Mobile NaaSCo,N/A,"2G, 3G, 4G","Rural, Ultra-Rural",3
+Africa Mobile Network (AMN),Africa & Middle East,430,LBR,Liberia,Independent Mobile NaaSCo,N/A,"2G, 3G, 4G","Rural, Ultra-Rural",2
+Africa Mobile Network (AMN),Africa & Middle East,566,NGA,Nigeria,Independent Mobile NaaSCo,N/A,"2G, 3G, 4G","Rural, Ultra-Rural",2
+Africa Mobile Network (AMN),Africa & Middle East,894,ZMB,Zambia,Independent Mobile NaaSCo,N/A,"2G, 3G, 4G","Rural, Ultra-Rural",2
+Winity Telecom,Latin America,76,BRA,Brazil,Independent Mobile NaaSCo,MNO/MVNO Wholesale,"4G, 5G","Rural, Ultra-Rural, Low-ARPU Urban",4
+Dense Air,Asia Pacific,554,NZL,New Zealand,Independent Mobile NaaSCo,MNO/MVNO Wholesale,"4G, 5G","Rural, Ultra-Rural, Low-ARPU Urban",3
+Dense Air,Europe,620,PRT,Portugal,Independent Mobile NaaSCo,MNO/MVNO Wholesale,5G,"Low-ARPU Urban, High-ARPU Urban",2
+Dense Air,Asia Pacific,36,AUS,Australia,Independent Mobile NaaSCo,MNO/MVNO Wholesale,5G,"Rural, Low-ARPU Urban, High-ARPU Urban",3
+Dense Air,Europe,372,IRL,Ireland,Independent Mobile NaaSCo,MNO/MVNO Wholesale,5G,"Low-ARPU Urban, High-ARPU Urban",3
+Dense Air,Europe,56,BEL,Belgium,Independent Mobile NaaSCo,MNO/MVNO Wholesale,5G,"Low-ARPU Urban, High-ARPU Urban",3
+Field Solutions Regional Access Network (RAN),Asia Pacific,36,AUS,Australia,Independent Mobile NaaSCo,MNO/MVNO Wholesale,"4G, 5G","Rural, Ultra-Rural",3
+ufinet,Latin America,484,MEX,Mexico,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",3
+ufinet,Latin America,320,GTM,Guatemala,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",1
+ufinet,Latin America,222,SLV,El Salvador,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",2
+ufinet,Latin America,340,HND,Honduras,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",1
+ufinet,Latin America,558,NIC,Nicaragua,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",1
+ufinet,Latin America,188,CRI,Costa Rica,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",1
+ufinet,Latin America,591,PAN,Panama,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",1
+ufinet,Latin America,170,COL,Colombia,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",2
+ufinet,Latin America,218,ECU,Ecuador,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",1
+ufinet,Latin America,600,PRY,Paraguay,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",1
+ufinet,Latin America,32,ARG,Argentina,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",2
+ufinet,Latin America,152,CHL,Chile,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",2
+ufinet,Latin America,604,PER,Peru,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",4
+ufinet,Latin America,76,BRA,Brazil,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",4
+Lyntia,Europe,724,ESP,Spain,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",2
+Eurofiber,Europe,528,NLD,Netherlands,Independent Fixed NaaSCo,Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"Ethernet, WDM","Rural, Low-ARPU Urban, High-ARPU Urban",2
+Eurofiber,Europe,56,BEL,Belgium,Independent Fixed NaaSCo,Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"Ethernet, WDM","Rural, Low-ARPU Urban, High-ARPU Urban",3
+Eurofiber,Europe,250,FRA,France,Independent Fixed NaaSCo,Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"Ethernet, WDM","Rural, Low-ARPU Urban, High-ARPU Urban",2
+Eurofiber,Europe,276,DEU,Germany,Independent Fixed NaaSCo,Dark Fiber Leasing | IP/Ethernet Services | Wavelength Service,"Ethernet, WDM","Rural, Low-ARPU Urban, High-ARPU Urban",1
+Liquid Telecom,Africa & Middle East,710,ZAF,South Africa,Independent Fixed NaaSCo,IP/Ethernet Services,Ethernet,"Rural, Low-ARPU Urban",3
+Liquid Telecom,Africa & Middle East,566,NGA,Nigeria,Independent Fixed NaaSCo,IP/Ethernet Services,Ethernet,"Rural, Low-ARPU Urban",2
+Liquid Telecom,Africa & Middle East,180,COD,Democratic Republic of the Congo,Independent Fixed NaaSCo,IP/Ethernet Services,Ethernet,"Rural, Low-ARPU Urban",3
+Liquid Telecom,Africa & Middle East,728,SSD,South Sudan,Independent Fixed NaaSCo,IP/Ethernet Services,Ethernet,"Rural, Low-ARPU Urban",2
+Liquid Telecom,Africa & Middle East,800,UGA,Uganda,Independent Fixed NaaSCo,IP/Ethernet Services,Ethernet,"Rural, Low-ARPU Urban",2
+Liquid Telecom,Africa & Middle East,646,RWA,Rwanda,Independent Fixed NaaSCo,IP/Ethernet Services,Ethernet,"Rural, Low-ARPU Urban",3
+Liquid Telecom,Africa & Middle East,834,TZA,Tanzania,Independent Fixed NaaSCo,IP/Ethernet Services,Ethernet,"Rural, Low-ARPU Urban",2
+Liquid Telecom,Africa & Middle East,716,ZWE,Zimbabwe,Independent Fixed NaaSCo,IP/Ethernet Services,Ethernet,"Rural, Low-ARPU Urban",1
+Liquid Telecom,Africa & Middle East,894,ZMB,Zambia,Independent Fixed NaaSCo,IP/Ethernet Services,Ethernet,"Rural, Low-ARPU Urban",2
+Liquid Telecom,Africa & Middle East,72,BWA,Botswana,Independent Fixed NaaSCo,IP/Ethernet Services,Ethernet,"Rural, Low-ARPU Urban",2
+Liquid Telecom,Africa & Middle East,404,KEN,Kenya,Independent Fixed NaaSCo,IP/Ethernet Services,Ethernet,"Rural, Low-ARPU Urban",2
+Liquid Telecom,Africa & Middle East,480,MUS,Mauritius,Independent Fixed NaaSCo,IP/Ethernet Services,Ethernet,"Rural, Low-ARPU Urban",1
+Brunei’s Unified National Networks,Asia Pacific,96,BRN,Brunei Darussalam,Fixed OAN,FTTH Wholesale|IP/Ethernet Services,"GPON, Ethernet","Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban",2
+ICASA Wireless Open Access Network (WOAN),Africa & Middle East,710,ZAF,South Africa,Single Wholesale Network,MNO/MVNO Wholesale,5G,"Rural, Ultra-Rural, Low-ARPU Urban",3
+TURKCELL,Europe,792,TUR,Turkey,Mobile OAN,MNO/MVNO Wholesale | Roaming,"2G, 4G","Rural, Ultra-Rural",1
+BCO Network,Europe,372,IRL,Ireland,Mobile OAN,MORAN/MOCN,5G,High-ARPU Urban,3
+Bai Communication / Sunderland Smart City,Europe,826,GBR,United Kingdom,Mobile OAN,MORAN/MOCN,5G,"Low-ARPU Urban, High-ARPU Urban",6
+CloudExtel,Asia Pacific,356,IND,India,Independent Mobile NaaSCo,MORAN/MOCN,"4G, 5G","Low-ARPU Urban, High-ARPU Urban",
+Barathnet,Asia Pacific,356,IND,India,Fixed OAN,FTTH Wholesale |Dark Fiber Leasing,GPON,"Rural, Ultra-Rural",1
+Qatar National Broadband Network (QNBN),Africa & Middle East,634,QAT,Qatar,Fixed OAN,FTTH Wholesale,GPON,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban",1
+Tanzania’s National ICT Broadband Backbone,Africa & Middle East,834,TZA,Tanzania,Fixed OAN,Dark Fiber Leasing|IP/Ethernet Services,Ethernet,"Rural, Ultra-Rural, Low-ARPU Urban",2
+Burundi Backbone System,Africa & Middle East,108,BDI,Burundi,Fixed OAN,IP/Ethernet Services,Ethernet,"Rural, Ultra-Rural, Low-ARPU Urban",1
+Andean Telecom Partners,Latin America,604,PER,Peru,Independent Fixed NaaSCo,FTTH Wholesale,GPON,High-ARPU Urban,4
+Fibertech,Africa & Middle East,400,JOR,Jordan,Independent Fixed NaaSCo,FTTH Wholesale|IP/Ethernet Services,GPON | Ethernet,"Rural, Low-ARPU Urban",1
+Reykjavik,Europe,352,ISL,Iceland,Fixed OAN,FTTH Wholesale,GPON,"Rural, Low-ARPU Urban",3
+Míla,Europe,352,ISL,Iceland,Independent Fixed NaaSCo,FTTH wholesale | IP/Ethernet Services | Dark Fiber Leasing,"GPON, Ethernet","Rural, Ultra-Rural,Low-ARPU Urban, High-ARPU Urban",3
+Míla,Europe,352,ISL,Iceland,Independent Mobile NaaSCo,MORAN/MOCN,5G,"Rural, Ultra-Rural,Low-ARPU Urban, High-ARPU Urban",3
+SIRO,Europe,372,IRL,Ireland,Fixed OAN,FTTH Wholesale,"GPON, XGS-PON","Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban",3
+Mauritanian National Backbone Network,Africa & Middle East,478,MRT,Mauritania,Fixed OAN,IP/Ethernet Services,Ethernet,"Rural, Ultra-Rural, Low-ARPU Urban",1
+Oman Broadband Company,Africa & Middle East,512,OMN,Oman,Fixed OAN,FTTH Wholesale,GPON,"Low-ARPU Urban, High-ARPU Urban",1
+Onivia,Europe,724,ESP,Spain,Independent Fixed NaaSCo,FTTH Wholesale | IP/Ethernet Services,"GPON, Ethernet","Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban",2
+Światłowód Inwestycje,Europe,616,POL,Poland,Independent Fixed NaaSCo,FTTH wholesale | Dark Fiber Leasing,GPON,"Rural, Low-ARPU Urban, High-ARPU Urban",2
+Nexera,Europe,616,POL,Poland,Fixed OAN,FTTH Wholesale| Dark Fiber Leasing,GPON,"Rural, Low-ARPU Urban",2
+FiBrasil,Latin America,76,BRA,Brazil,Independent Fixed NaaSCo,FTTH Wholesale,GPON,"Low-ARPU Urban, High-ARPU Urban",4
+Open Dutch Fiber,Europe,528,NLD,Netherlands,Independent Fixed NaaSCo,FTTH Wholesale,GPON,"Low-ARPU Urban, High-ARPU Urban",2
+Fiberklaar,Europe,56,BEL,Belgium,Independent Fixed NaaSCo,FTTH Wholesale,GPON,"Ultra-Rural, Rural, Low-ARPU Urban",3
+Cetin,Europe,203,CZE,Czech Republic,Independent Fixed NaaSCo,FTTH Wholesale | Dark Fiber Leasing | Wavelength Service | Ip/Ethernet Services,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",2
+Cetin,Europe,100,BGR,Bulgaria,Independent Fixed NaaSCo,FTTH Wholesale | Dark Fiber Leasing | Wavelength Service | Ip/Ethernet Services,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",2
+Cetin,Europe,348,HUN,Hungary,Independent Fixed NaaSCo,FTTH Wholesale | Dark Fiber Leasing | Wavelength Service | Ip/Ethernet Services,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",2
+Cetin,Europe,688,SRB,Serbia,Independent Fixed NaaSCo,FTTH Wholesale | Dark Fiber Leasing | Wavelength Service | Ip/Ethernet Services,"GPON, Ethernet, DWDM","Rural, Low-ARPU Urban, High-ARPU Urban",2
+Cetin,Europe,203,CZE,Czech Republic,Independent Mobile NaaSCo,MORAN,"2G, 3G, 4G, 5G","Rural, Low-ARPU Urban, High-ARPU Urban",2
+Cetin,Europe,100,BGR,Bulgaria,Independent Mobile NaaSCo,MORAN,"2G, 3G, 4G, 5G","Rural, Low-ARPU Urban, High-ARPU Urban",2
+Cetin,Europe,348,HUN,Hungary,Independent Mobile NaaSCo,MORAN,"2G, 3G, 4G, 5G","Rural, Low-ARPU Urban, High-ARPU Urban",2
+Cetin,Europe,688,SRB,Serbia,Independent Mobile NaaSCo,MORAN,"2G, 3G, 4G, 5G","Rural, Low-ARPU Urban, High-ARPU Urban",2
+Swiss Fiber Net ,Europe,756,CHE,Switzerland,Independent Fixed NaaSCo,FTTH Wholesale,GPON,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban",1
+RUNE,Europe,705,SVN,Slovenia,Independent Fixed NaaSCo,FTTH Wholesale,GPON,"Ultra-Rural, Rural",1
+RUNE,Europe,191,HRV,Croatia,Independent Fixed NaaSCo,FTTH Wholesale,GPON,"Ultra-Rural, Rural",1
+Utah Telecommunication Open Infrastructure Agency (UTOPIA),North America,840,USA,United States of America,Fixed OAN,FTTH Wholesale,GPON,"Rural, Low-ARPU Urban",15
+Huntsville Utilities Fiber,North America,840,USA,United States of America,Fixed OAN,Dark Fiber Leasing,GPON,"Rural, Low-ARPU Urban",15
+Ammon Fiber Optic Utility,North America,840,USA,United States of America,Fixed OAN,FTTH Wholesale ,GPON,Low-ARPU Urban,15
+Northwest Open Access Network (NoaNet),North America,840,USA,United States of America,Fixed OAN,"Wavelength Service | IP/Ethernet Services
+","Ethernet, DWDM","Rural, Low-ARPU Urban",15
+Mid-Atlantic Broadband Communities Corporation (MBC),North America,840,USA,United States of America,Fixed OAN,"Wavelength Service | IP/Ethernet Services
+","Ethernet, DWDM","Rural, Low-ARPU Urban",15
+Microelectronics Center of North Carolina (MCNC),North America,840,USA,United States of America,Fixed OAN,"Dark Fiber Leasing | Wavelength Service | IP/Ethernet Services
+","Ethernet, DWDM","Rural, Low-ARPU Urban",15
+Eastern Shore of Virginia Broadband Authority (ESVBA),North America,840,USA,United States of America,Fixed OAN,FTTH Wholesale,GPON,"Rural, Low-ARPU Urban",15
+Columbia County Community Broadband Utility (C3BU),North America,840,USA,United States of America,Fixed OAN,"Dark Fiber Leasing | Wavelength Service | IP/Ethernet Services
+","Ethernet, DWDM","Rural, Low-ARPU Urban",15
+ON*NET Fibra Colombia,Latin America,170,COL,Colombia,Independent Fixed NaaSCo,"FTTH Wholesale, IP/Ethernet Services",GPON,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban",2
+ON*NET Fibra Chile,Latin America,152,CHL,Chile,Independent Fixed NaaSCo,FTTH Wholesale | Ip/Ethernet Services,GPON,"Rural, Ultra-Rural, Low-ARPU Urban",2
+Red Federal de Fibra Optica (Refefo) ,Latin America,32,ARG,Argentina,Fixed OAN,Wavelength Service | IP/Ethernet Services,"DWDM, Ethernet","Rural, Ultra-Rural, Low-ARPU Urban",2
+Coatl,Latin America,222,SLV,El Salvador,Fixed OAN,Wavelength Service | Ip/Ethernet Services | Dark Fiber Leasing,"DWDM, Ethernet","Rural, Ultra-Rural, Low-ARPU Urban",2
+BNET,Africa & Middle East,48,BHR,Bahrain,Fixed OAN,FTTH Wholesale | Wavelength Service,"GPON, DWDM","Rural, Ultra-Rural, Low-ARPU Urban",1
+SiFi Networks – Fullerton FiberCity,North America,840,USA,United States of America,Independent Fixed NaaSCo,FTTH Wholesale,GPON,"Low-ARPU Urban, High-ARPU Urban",15
+Alita Indonesia / Facebook,Asia Pacific,360,IDN,Indonesia,Independent Fixed NaaSCo,FTTH Wholesale | Dark Fiber Leasing,GPON,"Low-ARPU Urban, High-ARPU Urban",1
+Chorus,Asia Pacific,554,NZL,New Zealand,Independent Fixed NaaSCo,FTTH Wholesale,GPON,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban",3
+UFB (Ultra-Fast Broadband),Asia Pacific,554,NZL,New Zealand,Fixed OAN,FTTH Wholesale|Dark Fiber Leasing,GPON,"Low-ARPU Urban, High-ARPU Urban",3
+Open Connect Limited,Africa & Middle East,454,MWI,Malawi,Independent Fixed NaaSCo,FTTH Wholesale | Dark Fiber Leasing,GPON,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban",1
+Bofinet,Africa & Middle East,72,BWA,Botswana,Fixed OAN,FTTH Wholesale | Ip/Ethernet Services,"GPON, Ethernet","Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban",2
+TTN,Europe,208,DNK,Denmark,Independent Mobile NaaSCo,MOCN,"2G, 3G, 4G & 5G","Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban",1
+CityFibre,Europe,826,GBR,United Kingdom,Independent Fixed NaaSCo,FTTH Wholesale,GPON,"Rural, Low-ARPU Urban, High-ARPU Urban",6
+Logix Fiber Networks,North America,840,USA,United States of America,Independent Fixed NaaSCo,Wavelength Service | Ip/Ethernet Services | Dark Fiber Leasing,"DWDM, Ethernet","Rural, Low-ARPU Urban, High-ARPU Urban",15
+Uniti,North America,840,USA,United States of America,Independent Fixed NaaSCo,Wavelength Service | Ip/Ethernet Services | Dark Fiber Leasing,"DWDM, Ethernet","Low-ARPU Urban, High-ARPU Urban",15
+OpenFiber - Atherton Fiber,North America,840,USA,United States of America,Independent Fixed NaaSCo,FTTH Wholesale,GPON,Low-ARPU Urban,15
+ExteNet Systems,North America,840,USA,United States of America,Independent Mobile NaaSCo,MNO/MVNO Wholesale,4G | 5G,"Rural, Low-ARPU Urban, High-ARPU Urban",15
+Crown Castle,North America,840,USA,United States of America,Independent Mobile NaaSCo,MNO/MVNO Wholesale,5G,"Low-ARPU Urban, High-ARPU Urban",15
+Mobilitie,North America,840,USA,United States of America,Independent Mobile NaaSCo,MNO/MVNO Wholesale,4G | 5G,"Low-ARPU Urban, High-ARPU Urban",15
+netomnia,Europe,826,GBR,United Kingdom,Independent Fixed NaaSCo,FTTH Wholesale,XGS-PON,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban",6
+Iliad,Europe,380,ITA,Italy,Independent Mobile NaaSCo,N/A,5G,"Rural, Ultra-Rural",2
+Full Fibre,Europe,826,GBR,United Kingdom,Independent Fixed NaaSCo,FTTP WHolesale | Ip/Ethernet Services | Dark Fiber Leasing,"GPON, Ethernet","Rural, Ultra-Rural",6
+Becloud,Europe,112,BLR,Belarus,Single Wholesale Network,MNO/MVNO Wholesale,4G,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban",1
+Cellnex/Bouygues,Europe,250,FRA,France,Independent Fixed NaaSCo,Ip/Ethernet Services,Ethernet,"Low-ARPU Urban, High-ARPU Urban",2
+American Tower,Latin America,76,BRA,Brazil,Independent Fixed NaaSCo,Wavelength Service | Ip/Ethernet Services| FTTH Wholesale,"GPON, Ethernet,DWDM",Low-ARPU Urban and High-ARPU Urban,4
+American Tower,Latin America,484,MEX,Mexico,Independent Fixed NaaSCo,Wavelength Service | Ip/Ethernet Services | Dark Fiber Leasing | FTTH Wholesale,"GPON, Ethernet,DWDM",Low-ARPU Urban and High-ARPU Urban,3

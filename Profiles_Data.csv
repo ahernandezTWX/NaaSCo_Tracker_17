@@ -1,0 +1,446 @@
+﻿Company,Flag,Deployment,Country,Mnos,Sharing Model,Business Model,Scope,Highlights,Status,Year,Deployment Scenario
+cloudextel,India,CloudExtel,India,Vodafone Idea and Bharti Airtel,MORAN,Independent Mobile NaaSCo,"The quality service increased by 10x , from 4 mbps to 40 mbps peak throughput
+The amount of transferred data is 990 GB daily
+It handles more than 230,000 users per day","CloudExtel and RailTel deployed a neutral-host NaaS solution on the Mumbai Central Railway Station
+The solution involves 6 remote radio units, using a single backhaul unit
+The project involves still 8 more trains stations
+CloudExtel works with TIP to define the business model and Nokia for equipment",Active,2022,Low-ARPU Urban and High-ARPU Urban
+edotco,,Edotco,"Based in Malaysia, operations in 8 countries in APAC",Multiple operators per country,MORAN,Independent Mobile NaaSCo,41k sites in the APAC region,"Edotco currently operates as an Infrastructure (tower & power) provider.
+One of the fastest growing InfraCos in the region&&
+In 2020, edotco partnered with the Telecom Infra Project (TIP), to conduct trials of Open Radio Access Network (OpenRAN) technology.
+Trial required edotco to deploy and test OpenRAN 4G sites at selected high traffic areas in Malaysia in a Network as a Service environment, providing wholesale service to MNOs starting with Celcom Axiata.&&
+Edotco is planning to grow at least 70,000 sites by 2025 and it is  looking to complete its presence within the Southeast Asia and South Asia market by expanding into three new markets.
+Edotco is exploring NaaSCo opportunities",Active,2014,"Rural, Low-ARPU urban"
+internet_para_todos,Peru,Internet Para Todos,Peru,"Telefonica ,Entel & Claro",MORAN,Independent Mobile NaaSCo,"12k rural communities served across the rural geography of Peru.​
+2 Million Covered PoPs.​
+IpT estimates more than 2,000 sites and more than 15,000 towns with 4G presence at the end of 2022
+Targets for 2023: ​3.079 Upgraded Sites​ & 866 new sites in not-spot areas​","Joint venture created by: Telefonica, FB Connectivity, IDB Invest, and CAF operating under the NaaS Model​
+IpT objective is to reduce digital gap and connect Peru rural/remote communities.​
+Spectrum owned by Telefonica and Entel​
+Current sharing model is MORAN, but IpT is in coordination with the Regulator to approve MOCN so that they can onboard a third MNO (Claro)​
+Delayed 2020 target to cover 2.1M pops and 13,00 municipalities was accomplished in 2021 
+More than 1,900 4G sites in Peru connected up until now connecting more than 2.8 million people 
+It upgraded existing 2G sites to 4G and built new 4G greenfield sites
+MNO Partner Claro Perú and IpT closed agreement in 2022",Active,2019,"Rural, Ultra-Rural"
+nuran,,NURAN,"Sudan, DRC, Cameroon, Ghana, Mali, Sierra Leone among others","MTN, Orange among others",---,Independent Mobile NaaSCo,"2G, 3G and 4G Rural Networks.
+452 sites deployed in 22 countries covering 851,139 pops.
+58 sites under the NaaS Model in 3 countries","In partnership with Orange, it will deploy 242 GSM sites in Cameroon. 15 sites are already on-air,  the initial report on 10 of them, shows a penetration rate around 33%.
+It will deploy 120 sites in DRC by March 2022, 14 sites were delivered in 2021.
+In 2021, NURAN  signed a 10-year agreement with MTN Group Limited to deploy and operate 250 sites in Sudan, CAD $57 Million in revenues is estimated.&&
+In 2021, it signed two Memorandum of Understanding (“MOU”) to deploy rural Networks in West Africa: 150 sites with Telino-Consulting in Mali and 125 sites with Sierra Tel in Sierra Leone&&",Active,2014,"Rural, Ultra-Rural"
+winity_telecom,Brazil,Winity Telecom,Brazil,MNOs in Brazil,MNO/MVNO Wholesale,Independent Mobile NaaSCo,"4G & 5G  Networks
+Macro Sites, DAS,  Small Cells and Private Networks ","In 2021, Through a government auction,  it acquired a 5G license to operate the first strip of 700 MHz  (10 MHz + 10 MHz) with nation countrywide coverage. The amount to be paid, $255 million, is 805 percent above the minimum required.
+The license includes coverage obligations to build infrastructure to provide 4G coverage across 625 locations and in 31 thousand km of federal roads, the geographical distribution of the targets represents a challenge (North, Northeast and Central-West)
+By the end of 2029, Winity plans to  deploy 5000 towers with an investment of R$ 2 billions
+TIM is the best candidate to be the first retail customer since it also operates in the 700 MHz which facilities the RAN Sharing ",Pending,2021,"Rural, Ultra-Rural, Low-ARPU Urban"
+liquid_telecom,South Africa,Liquid Telecom,South Africa,Vodacom,MNO/MVNO Wholesale,Independent Mobile NaaSCo,Major South African cities in early 2020,"Liquid Telecom is the only MNO with a 5G license spectrum allocated in South Africa (56 MHz in the 3.5 GHz band)
+Due to the pandemic , Liquid received temporally a 4MHz of additional spectrum adjacent to its existing assignment.
+Vodacom signed a deal to use Liquid’s 3.5GHz spectrum for 5G services
+Currently, it is involved in the ICASA’s process to allocate the temporary 5G spectrum",Active,2020,Low-ARPU Urban
+africa_mobile_network,South Africa,Africa Mobile Network (AMN),12 Countries in Africa,"Orange, MTN among others",NA,Independent Mobile NaaSCo,"2G, 3G & 4G Networks​
+Networks deployed in 12 Countries​
+2,450 base stations in services​
+AMN works under a Closed Operating Model
+It estimates to reach 3,500 sites by the end of 2022","Currently, it is expanding its Network in 12 countries located in sub-Saharan Africa.​
+In 2020, It acquired US-based Range Networks Inc as the basis for the development of its own in-house Radio Access Network (RAN) equipment.​
+It has raised more than $100m from some twenty investors (Meta, Intelsat)​
+AMN Networks are based on small towers installed in a day ​
+In 2021, it received an investment of $36m to expand its coverage to 3,500 towers with more than 2 million subscribers by the end of 2022 and more than 5,000 by the end of 2023
+AMN is targetting to connect more than 40 million subscribers with more than 10,000 new sites.",Active,2013,"Rural, Ultra-Rural"
+tepco,Japan,TEPCO,Japan,"KDDI, Rakuten Mobile Network",MORAN,Independent Mobile NaaSCo,Crowded cities ,"TEPCO is exploring the shared utilization of utility poles  and other electric power infrastructure to deploy a 5G small cell Network in Tokyo.
+5G Antenna-equipped Smart Poles are a suitable alternative to deploy extensive 5G Network in crowded cities like Tokyo avoiding the impact on the landscape.
+TEPCO’s buried power lines, located in the main streets, will be leveraged to overcome major structural issues regarding backhaul deployment.
+.",Active,2019,Low-ARPU Urban and High-ARPU Urban
+dense_air,,Dense Air,"Australia, Belgium, Ireland, New Zealand, Portugal, and the UK","National MNOs, MVNOs, Fixed Network operators and Private enterprises",MNO/MVNO Wholesale,Independent Mobile NaaSCo,Dense Air portfolio includes solutions for both rural and urban scenarios focused the usage of small cells and tower construction,"Dense Air controls its own mid-band spectrum in Ireland, Belgium, Portugal, New Zealand, and Australia; operating as a NaaS provider for 4G & 5G.
+Dense Air partners with cities and carriers to build city-wide networks and serve as a neutral host.
+2020 – Dense Air will serve as neutral host of a 5G network in Dublin, Ireland.
+2021 – Dense Air acquired 2.6 GHz nationwide spectrum in Australia to host 5G RAN-as-a-service.
+Still growing, in 2021 successful acquisition of mmWave spectrum at 26 GHz in Sydney and Melbourne",Active,2017,"Rural, Ultra-Rural, Low-ARPU Urban"
+wireless_infrastructure_group,UK,Wireless Infrastructure Group – Aberdeen,UK,O2,MORAN/MOCN,Independent Mobile NaaSCo,5G Network of small Cells with a contiguous coverage to over 4km-sq of the Aberdeen’s city center,"2018 - In partnership with Aberdeen City Council (Scotland) deployed a 5G Network of small cells, O2 is the first mobile operator to launch its services using WIG’s infrastructure and O2’s spectrum.
+The Network can be used with MNO’s spectrum and Ofcom’s shared access licenses.
+The small cells wad attached to lamp-posts and traffic lights across Aberdeen’s city center. 
+The Network was deployed using C-RAN technology 
+WIG built the fiber optic backhaul",Active,2018,Low-ARPU Urban
+finnish_shared_network,Finland,Finnish Shared Network,Finland,"DNA Oyj
+Telia Finland Oyj",MOCN,Joint Venture,"The network will cover Northern and eastern Finland, focusing on rural areas.","“Suomen Yhteisverkko Oy” is a joint venture created by: DNA Oyj and Telia Finland Oyj
+The Finnish Shared Network was founded in 2014 to design, implement and maintain a mobile network in Northern and Eastern Finland.
+Apart from providing coverage to rural areas, the project includes the rollout of 5G RAN equipment and modernization of existing 2G, 3G and 4G sites across network’s coverage.
+Successful initiative, currently expanding the Network coverage from 50% to 62.5% of Finland’s territory and from 13.5% to 28.5% of total population",Active,2014,Rural and Ultra-Rural
+extenet_systems,USA,ExteNet Systems,USA,More than 20,MNO/MVNO Wholesale,Independent Mobile NaaSCo,"ExteNet systems has 2,000+ operational sites comprising 300+ outdoor networks.
+ExteNet enabled advanced mobility and building communications service in 200+ buildings.
+CBRS spectrum to deploy 4G and 5G sites","Extenet systems includes multiple use cases: Fixed Wireless, LTE/5G Mobility, Roaming and VoLTE.
+ExteNet solutions include macro cells, small cells, and Distributed Antenna System (DAS), complementing with carrier-grade transport links and dark fiber as a wholesale service.
+Relevant In-Building networks: Bank of America Plaza, Barclays Center, Empire State Building, A&T Stadium.
+Relevant Outdoor networks: Circuit of the Americas Racetrack, San Francisco and New York.",Active,2012,"Rural, Low-ARPU Urban, High-ARPU Urban"
+crown_castle,USA,Crown Castle,USA,"T-Mobile, Verizon, Others",MNO/MVNO Wholesale,Independent Mobile NaaSCo,"Crown Castle has activated 55,000 small cells and has another 60,000 in its pipeline. 
+MNO’s spectrum to deploy 5G small cells","In 2021, Verizon committed to lease 15,000 new small cells that Crown Castle plans to install within the next four years.
+Crown Castle has deployed 5G Small Cells in major US cities, such as: New York, Chicago, Los Angeles, etc.",Active,2018,"Low-ARPU Urban, High-ARPU Urban"
+mobilitie,USA,Mobilitie,USA,"T-Mobile, Sprint, Others",MNO/MVNO Wholesale,Independent Mobile NaaSCo,"Mobilitie has deployed 10,000 small cells across 45 states
+MNO’s spectrum to deploy 4G and 5G small cells","Mobilitie has deployed 4G/5G Small Cells in US cities, such as: Las Vegas, Chicago, Los Angeles and others.
+In 2021, BAI Communications, a global communications infrastructure provider acquired Mobilitie.",Active,2017,"Low-ARPU Urban, High-ARPU Urban"
+mila,Iceland,Míla,Iceland,"Síminn, Sýn (formerly Vodafone Iceland) , Nova among others",MORAN,Independent Mobile NaaSCo,"Míla will build a nationwide 5G wireless network, 31 5G stations already deployed in the capital area
+It will deploy 40 – 50 5G stations  by 2022","In 2021, Ardian Infrastructure adquired Míla for an enterprise value of $605m USD.
+In 2021, Mila bought Síminn’s 2G, 3G, 4G mobile Network
+Síminn will remain Míla’s long-term anchor tenant
+The 5G Network will be deployed with Ericsson equipment.",Active,2021,"Rural, Ultra-Rural,Low-ARPU Urban, High-ARPU Urban"
+ttn,Denmark,TTN,Denmark,Telenor and Telia,MOCN,Independent Mobile NaaSCo,"Current: 4,300 sites, three million customers ","Joint venture between Telenor and Telia 
+The parties are obliged to buy frequency licenses in common, the spectrum before acquired before the joint venture is shared
+TTN is Denmark’s largest mobile network 
+Each Operator owns 50% of the Network
+Nokia will be the exclusive supplier of 5G RAN equipment and will support the modernization of the shared network
+The TTN 5G pilot was the first network to simultaneously support 2G-5G sharing.",Active,2012,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban"
+iliad,Italy,Iliad,Italy,---,---,Independent Mobile NaaSCo,"5G
+The Network shared will include 7,000 Wind Tre's existing mobile sites which cover about 27% of the Italian population living in remote areas","Joint Venture between Iliad and Wind Tre
+The agreement was not signed yet",Active,2022,"Rural, Ultra-Rural"
+cetin,,Cetin,"Czech Republic, Bulgaria, Hungary, Serbia","O2, T-Mobile and Vodafone, Telenor among others",MORAN,Independent Mobile NaaSCo,"2G, 3G, 4G & 5G
+2,600 sites in Bulgaria
+2,300 sites in Hungary
+2,100 sites in Serbia
+~4,200 sites in Czech Republic","CETIN Czechia was founded in 2015 as a spin-off from O2 CZ Group and acquired by PPF Telecom Group
+In 2020, CETIN expanded its Network to Bulgaria, Hungary & Serbia as a spin-off from Telenor in these countries. 
+CETIN Czechia is the main provider of mobile network services for O2 Czech
+CETIN Hungary’s 4G telecommunications infrastructure covers 99.9 % of the Hungarian population
+Through a shared network, It operates the mobile network for T-Mobile Czech Republic in half the country
+In 2020,  CETIN Czechia signed a five-year contract with Ericsson to upgrade its 4G Network to 5G ",Active,2020,"Rural, Low-ARPU Urban, High-ARPU Urban"
+andean_telecom_partners,Peru,Andean Telecom Partners,Peru,---,FTTH Wholesale| Dark Fiber Leasing,Independent Fixed NaaSCo,"Roll out of FTTH Network in Barranco district of the capital city, Lima",The Network will be deployed with Nokia’s Equipment,Active,2020,High-ARPU Urban
+sifi_networks_fullerton_fibercity,USA,SiFi Networks – Fullerton FiberCity,USA,Ting and GigabitNow,FTTH Wholesale,Independent Fixed NaaSCo,"SiFi Networks under its FiberCity brand funds, builds and operates city wide OANs
+The fiber network will pass 55,000 homes and 5,000 businesses","In 2019, SiFi Networks began constructing the Fullerton Fiber City network and the first residential customers were hooked up in June 2020
+Fullerton, California, is known as the largest privately funded OAN fiber network in US with a total funding of $75 million.
+To 2022 Q1, SiFi Networks has built 35% of the Fullerton fiber network using micro-trenching technique for underground fiber deployment.
+The ISPs offer residentials symmetrical 250 Mbps and 1 Gbps for $60/month and $79/month, respectively.
+SiFi is currently (2022 Q1) in the process of building three FiberCities: Fullerton California, Placentia, California and East Hartford, Connecticut.",Active,2019,"Low-ARPU Urban, High-ARPU Urban"
+atherton_fiber,USA,OpenFiber - Atherton Fiber,USA,"Atherton Fiber Internet Service,  LMi.net and Monkeybrains",FTTH Wholesale,Independent Fixed NaaSCo,"Atherton Fiber network covers 3 California neighborhoods: Atherton, North Fair Oaks and Lindenwood
+The FTTH services will be expanded to Woodside, Menlo Oaks, and East Palo Alto","Atherton Fiber was created as a private Competitive Local Exchange Carrier (CLEC) so that it could use local utility poles and operate as a telecommunications utility.
+Community-driven, open-access fiber optic network that delivers symmetrical internet connections.&&
+The offered plans by the CSPs are: 100 Mbps / $50 per month, 500 Mbps / $55 per month, and 1 Gbps / $65 per month.&&
+Atherton Fiber promotes in its website the FCC Affordable Connectivity Program (ACP) where the customer may qualify for a $30 monthly discount on high-speed home internet.",Active,2014,Low-ARPU Urban
+logix_fiber_networks,USA,Logix Fiber Networks,USA,---,"Dark Fiber Leasing, Wavelength Service and IP/Ethernet Services",Independent Fixed NaaSCo,"LOGIX is the largest fiber network provider in Texas, and operates high-performance colocation data center facilities in Houston, Austin and Dallas. 
+LOGIX operates more than 290,000 fiber miles.","The LOGIX fiber network connects over 3,000 enterprise buildings and nearly 100 third-party data centers in Texas.
+In 2022, LOGIX signed agreements with two major MNOs to provide fiber to the tower solutions as the state moves towards the realization of 5G.
+LOGIX is selected by over 10,000 enterprise and carrier customers for its highly secure, fiber-based data and voice services, as well as data center access.",Active,1990,"Rural, Low-ARPU Urban, High-ARPU Urban"
+uniti,USA,Uniti,USA,---,"Dark Fiber Leasing, Wavelength Service and IP/Ethernet Services",Independent Fixed NaaSCo,"Uniti network mainly provide services in the western part of the US
+Uniti operates more than 128,000 fiber route miles.","Uniti Fiber is a wholly owned subsidiary of Uniti Group, a publicly traded Real Estate Investment Trust (REIT).
+The wavelength and Ip/Ethernet services are provided across 7 states of the US (Texas, Louisiana, Mississipi, Alabama, Georgia, Florida and Maryland)
+Uniti's fiber network reaches more than 250,000 on-net and near-net buildings",Active,2000,"Low-ARPU Urban, High-ARPU Urban"
+fibertech,Jordan,Fibertech,Jordan,MNOs & ISPs in Jordan,"FTTH Wholesale, IP/Ethernet Services",Independent Fixed NaaSCo,~ 1.3 million households and enterprise premises,"Joint venture between Jordan Electrical Power Company (JEPCO) and Umniah Mobile Company
+Initial investment of JD40 million 
+Fibertech is the first of its kind in Jordan and the region
+The Network will be deployed in areas served by JEPCO
+In 2021, it received a loan of JD25 million from the  Housing Bank for Trade and Finance
+It signed a MoU  with Huawei to enhance the infrastructure and operational efficiency of its network",Active,2019,"Rural, Low-ARPU Urban"
+fibrasil,Brazil,FiBrasil,Brazil,Vivo among others,FTTH Wholesale,Independent Fixed NaaSCo,"It is committed to covering 5.5 million Homes Passed  within 4 years
+34 Brazilian Cities, 24 millones de Homes Passed ","CDPQ will invest R$1.8 billion (CA$408 million)
+Joint venture between Telefónica Group and CDPQ under a co-control governance model
+Deployment plan fully financed through CDPQ’s investment and new debt expected to be raised by FiBrasil
+Initial footprint of  1.6 million Homes Passed (current Telefonica’s customers)",Active,2021,"Low-ARPU Urban, High-ARPU Urban"
+open_dutch_fiber,Netherlands,Open Dutch Fiber,Netherlands,T-Mobile Netherlands among others,FTTH Wholesale,Independent Fixed NaaSCo,Target: one million households in the Netherlands by 2025,"Joint venture between Global investment firm KKR and Deutsche Telekom Capital Partners (DTCP) 
+T-Mobile Netherlands will be the anchor tenant under a 20-year agreement
+The deployment started in Q2 2021 with an investment of EUR700 million (USD828 million) ",Active,2021,"Low-ARPU Urban, High-ARPU Urban"
+fiberklaar,Belgium,Fiberklaar,Belgium,"Rapidxs, edpnet, multifiber, proximus",FTTH Wholesale,Independent Fixed NaaSCo,1.5 million homes by 2028,"Joint Venture between EQT Infrastructure and Proximus
+The deployment started in late 2021
+ Investment of 2.5 billion euros
+It works under the “demand bundling” model, the Network deployment only starts in certain regions with interested parties ",Active,2021,"Ultra-Rural, Rural, Low-ARPU Urban"
+swiss_fiber_net,Switzerland,Swiss Fiber Net ,Switzerland,"Swiss4net, ftth fr, among others",FTTH Wholesale,Independent Fixed NaaSCo,"12, 500  households in Otelfingen, Sins and Lenzburg
+100,000 additional households in 2021","A joint venture of local and regional energy providers in Switzerland
+Network consortium consisting of local fiber networks constructed by utility providers used as a common platform for resale.
+Telecom providers and Network owners sign 20-year indefeasible rights of use (IRU) 
+Swiss Fibre Net operates Swiss Open Fiber Network, a joint venture between Salt and Sunrise ",Active,2013,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban"
+rune,,RUNE,"Slovenia, Croatia","Slovenia: A1, T2, telemach and Telekom Slovenije
+
+Croatia: fibernet, Terrakom, Tehnoline",FTTH Wholesale,Independent Fixed NaaSCo,"Target: 150,000 households in Slovenia  and 200,000 addresses in Croatia","In 2022,  European banks provided an additional founding of 130 million euros 
+First Project funded by the Connecting Europe Broadband Fund (CEBF)
+RUNE is the first multinational project at the EU level.
+The end-user should pay a one-time amount for the Last-Mile connection ",Active,2020,"Ultra-Rural, Rural"
+onnet_fibra_chile,Chile,ON*NET Fibra Chile,Chile,---,FTTH Wholesale | Ip/Ethernet Services,Independent Fixed NaaSCo,"Current:  2.4 million households, 32,000km
+Target: 3.5 million households by the end of 2022
+36,000km, connecting 15 regions and 180 districts","The company announced an investment of USD 130 million in the coming 18 months
+The first wholesale neutral fiber-to-the-home (FTTH) company in Chile
+To found the new company, KKR acquired 60% of InfraCO, a subsidiary of Telefonica Chile
+ 50% of the households in its deployment plan are located outside the urban areas",Active,2013,"Rural, Ultra-Rural, Low-ARPU Urban"
+onnet_fibra_colombia,Colombia,ON*NET Fibra Colombia,Colombia,Telefonica among others,FTTH Wholesale/ IP/ Ethernet Services,Independent Fixed NaaSCo,"1.7 million homes covered in more than 38 cities
+Additional 4.3 million Passed Property Units by 2024 with an investment of $215M","New company founded by Telefonica Colombia and the investment firm KKR (60% owned by KKR)
+KKR acquired 60% of the Telefonica Fiber Network. The Network evolved into wholesale Network
+In 2022, It received a loan of  $221M from Scotiabank Colpatria S.A., Bancolombia S.A., BBVA Colombia y The Bank Of Nova Scotia (Scotiabank)",Active,2021,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban"
+onivia,Spain,Onivia,Spain,MÁSMÓVIL and Orange among others,FTTH Wholesale,Independent Fixed NaaSCo,"Current: 2.1 M premises passed in urban & rural areas, coverage in more then 1,000 cities.
+8,400 km of fiber","In 2019, Macquarie Capital and Aberdeen Standard acquired MÁSMÓVIL’s urban FTTH network to create Onivia. They paid €218.5m.
+In 2021,  the Onivia’s Network doubled its size with the acquisition of MÁSMÓVIL’s rural FTTH network.
+MÁSMÓVIL retained full ownership of its existing customers in the sold network using the  Onivia’s fiber
+It is planning to extend its rural FTHH Network  in 2022",Active,2019,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban"
+wiatowod_inwestycje,Poland,Światłowód Inwestycje,Poland,"T-Mobile, Orange, NETIA",FTTH wholesale | Dark Fiber Leasing,Independent Fixed NaaSCo,"Current: 800 households
+Target: 2.4 millions","Joint venture between Orange Poland & APG
+Orange Poland's subsidiary 
+In 2020,  APG acquired the 50 percent of FiberCo (Swiatlowod Inwestycje), Orange Poland received PLN 897 million as the first part of the payment for the transaction. Payment of the remaining PLN 487 million will occur in 2022-2026.
+In 2021, it received a found of PLN 600 million from the European Investment Bank (EIB) as part of the project Fiber Optic Network Expansion Poland (FONEXP)",Active,2021,"Rural, Low-ARPU Urban, High-ARPU Urban"
+alita,Indonesia,Alita Indonesia / Facebook,Indonesia,---,FTTH Wholesale | Dark Fiber Sharing,Independent Fixed NaaSCo,"Target: 10 million Indonesians in 56 cities in 8 provinces.
+3,000 kilometers","This is Facebook’s largest fiber initiative in Asia to date
+The metro fiber  will connect more than 1,000 cell sites in Bali, Java, Kalimantan and Sulawesi in Indonesia",Active,2021,"Low-ARPU Urban, High-ARPU Urban"
+chorus,New Zealand,Chorus,New Zealand,"2degrees, 2Talk, Big Pipe, Bryte Internet Solutions, Cello Group Limited, Compass, Devoli, Econofibre",FTTH Wholesale ,Independent Fixed NaaSCo,"Current: 1,761,000 fixed line connections and 1,223,000 broadband connections.
+Target : 90% of the population by 2022.","Due to the UFB (Ultra-Fast Broadband) initiative, Chorus is only allowed to extend its Network in areas not included in the Government’s UFB initiative.
+In 2021, The New Zealand Commerce Commission (ComCom)  performed an official valuation of Chorus to determine the maximum revenue  a regulated provider like Chorus can earn from its fiber network",Active,2011,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban"
+open_connect_limited,Malawi,Open Connect Limited,Malawi,---,FTTH Wholesale | Dark Fiber Sharing,Independent Fixed NaaSCo,"Current: 3,800 km","It is the largest and only redundant fiber network in Malawi
+In 2018, it was acquired by the private company Harith General Partners after it split with the public-owned Malawi Telecom Limited
+In 2021,  received a loan of $10 million from the International Finance Corporation (IFC) the private-sector investment of the World Bank 
+ OCL is already working on upgrading this capacity to DWDM(STM-192)",Active,2018,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban"
+city_fibre,UK,CityFibre,UK,---,FTTH Wholesale,Independent Fixed NaaSCo,Target: a third of the UK market by 2025 (8 million homes),"Partnership with Mubadala as part of the UAE–UK Sovereign Investment Partnership program
+Total investment of £1.425bn,  £4bn of them provided by the Gigabit City Investment Programme
+Plans to upgrade its Network  to XGS-PON",Active,2012,"Rural, Low-ARPU Urban, High-ARPU Urban"
+netomnia,UK,Netomnia,UK,---,FTTH Wholesale,Independent Fixed NaaSCo,"Current: 130,000 premises 
+Target:  1 million residential and business premises by 2023.","Tightly related to ISP YouFibre (same CEO)
+Soho Square Capital LLP and Advencap Limited were the first stakeholders
+In 2022, Netomnia a new founding of  £295 million led by DigitalBridge Investment Management (“DigitalBridge”)
+Named ‘Altnet Operator of the Year’ at the 2021 Broadband World Forum Awards",Active,2019,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban"
+full_fiber,UK,Full Fibre,UK,"BeFibre, Squirrel, Merula, AIR & SWS Broadband",FTTP Wholesale | Ip/Ethernet Services | Dark Fiber Leasing,Independent Fixed NaaSCo,"Target: 250,000 premises during 2022 and 500,000 homes across 4 regions by 2025. ","In 2020, It received a 500m investment from Basalt Infrastructure Partners III, an infrastructure investment firm
+It is Focused on Market towns
+Fiber Network routes are designed to cover social housing providing lower price points",Active,2017,"Rural, Ultra-Rural"
+cetin,,Cetin,"Czech Republic, Bulgaria, Hungary, Serbia","O2, T-Mobile and Vodafone, Telenor among others",FTTH Wholesale | Dark Fiber Leasing | Wavelength Service | Ip/Ethernet Services ,Independent Fixed NaaSCo,"69,700 kilometers of fiber optic cables span over Czech Republic, Bulgaria, Hungary, Serbia 
+3.9 million households connected by FTTC and 105 thousand households with FTTH in the Czech Republic (85% of all households)","By the end of 2027, CETIN plans to build one million 1Gbps FTTH optical connections
+ Since 2015, it has invested more than CZK8 billion (USD383.2 million) in the modernization of its fixed-line network
+In 2021, CETIN Bulgaria acquired 100% of the fiber-optic services company Sofia Communications  expanding its fiber network in Bulgaria's capital Sofia",Active,2020,"Rural, Low-ARPU Urban, High-ARPU Urban"
+csquared,,Csquared,"Uganda, Ghana and Liberia","MTN, Orange, Africell, Vodacom, iWayAfrica, SimbaNet",FTTH wholesale | Dark Fiber Leasing,Independent Fixed NaaSCo,"CSquared currently owns and operates 890 km of metropolitan fiber in Uganda;  more than 1070 km of fiber in Ghana and more than 180 km in Monrovia. , Liberia","It is a joint venture between Google, Mitsui & Co (Japan), Convergence Partners (South Africa) and the International Finance Corporation (IFC, World Bank Group).
+CSquared deployed  a GPON Network to offer FTTH services in Kampala 
+CSquared  has a public Wi-Fi infrastructure setup to serve end users on-the-go as well as fixed wireless users. 
+Offers Backbone Wholesale services from 1G and up to 100G+
+Still expanding the network, in 2021 signed a license to build a backbone or network throughout Liberia.",Active,2011,"Rural, Ultra-Rural, Low-ARPU Urban"
+eurofiber,,Eurofiber,"Netherlands, Belgium, France and Germany ","Leading European MNOs: Colt, Vodafone, Verizon, Ubisoft, gtt",Dark Fiber Leasing |IP/Ethernet Services,Independent Fixed NaaSCo,"Operate over 56,300km overall fiber network across countries where Eurofiber operates","Eurofiber offers interconnectivity between nearly all carrier-neutral data centers in the Netherlands and Belgium.
+Serves customers in the wholesale carrier, data center, enterprise, finance, government & utilities, education, and healthcare sectors.
+2021 – NGN (Germany) and Eurofiber partnered to expand existing NGN’s nationwide fiber network and make it accessible to all German telecom operators.
+Still growing, in 2021 the Network was expanded to Berlin and Frankfurt.",Active,2000,"Rural, Low-ARPU Urban, High-ARPU Urban"
+dstelecom,Portugal,dstelecom,Portugal,"Vodafone and Nos, among others",FTTH wholesale | Dark Fiber Leasing ,Independent Fixed NaaSCo,"Built and operated  9,000 kilometers of rural broadband network in the North of Portugal, Alentejo and Algarve.  ","Joint venture between DST Group  and Cube Infrastructure Fund II 
+Won the FTTH Council Europe 2015 Best Operator Award
+Signed a 50 million financing agreement with the German bank HSH Nordbank
+Vodafone, Nos and DSTelecom will deploy up to 1.2 million fibre-to-the-home (FTTH) lines to reach 5.7 million homes
+Still growing, in 2021 16,000 households in Arcos de Valdevez and 5,300 in Terras de Bouro were connected",Active,2010,"Rural, Ultra-Rural"
+ufinet,,ufinet,Latin America,Latin-American MNOs & ISPs,FTTH wholesale | Dark Fiber Leasing ,Independent Fixed NaaSCo,"Dark fiber network deployed in America with more than 90,000 km length.
+More than 5k towers  
+Coverage in 17 Countries","Ufinet provides our Fiber-to-the-Home services across LATAM under an open neutral host model.
+Other series offered by Ufinet are tower construction, internet connectivity and Layer 3 services.
+Still growing, in 2021 the Brazilian NB Telecom company was acquired adding more than 500 km of fiber. ",Active,2008,"Rural, Low-ARPU Urban, High-ARPU Urban"
+lyntia,Spain,Lyntia,Spain,MásMóvil among others,FTTH wholesale | Dark Fiber Leasing ,Independent Fixed NaaSCo,"Fiber Optic Network of 43,439 km over 1,912 cities across Spain.
+2,694 connected localities","Created by Ufinet and Desarrollo del Cable
+In March 2019, it acquires the Iberdrola’s Dark Fiber extending the Network 15,000 km 
+Lyntia and Reintel own  90% of the fiber optic market in Spain
+",Active,2009,"Rural, Low-ARPU Urban, High-ARPU Urban"
+mila,Iceland,Míla,Iceland,"Vodafone, Hringdu, Hringiðan / Vortex, Símafélagið, 365 and Nova",FTTH wholesale | IP/Ethernet Services | Dark Fiber Leasing,Independent Fixed NaaSCo,"70% of homes in Iceland and the entire Capital area
+4,000 km of fiber optic Network, 
+It will connect 13,000 addresses in rural towns and villages","Mila has started laying fiber connections around the country, in towns including Akureyri, Húsavík, Egilsstaðir, Selfoss, and Reykjanesbær.
+In 2018, It started a parentship with Gagnaveita Reykjavíkur to lay fiber optic cables in certain residential areas in the capital area of Iceland",Active,2021,"Rural, Ultra-Rural,Low-ARPU Urban, High-ARPU Urban"
+american_tower,,American Tower,"Mexico,
+Brazil",VIVO,Wavelength Service | Ip/Ethernet Services | Dark Fiber Leasing | FTTH Wholesale,Independent Fixed NaaSCo,"90% of the Minas Gerais, Brazil (800,000 Households)
+6,500 km of Fiber Optic deployed in 29 Mexican cities","In 2018, ATC acquired the broadband network of Companhia Energética de Minas Gerais (Cemig) , the Network was evolved into a shared Network.
+In 2019,  Telefónica Brazil started a partnership with ATC to promote its FTTH network deployment through the Vivo Fibra brand",Active,2019,Low-ARPU Urban and High-ARPU Urban
+uk_shared_rural_network,UK,UK Shared Rural Network (SRN),UK,"EE, O2, Three and Vodafone ",MNO/MVNO Wholesale,Mobile OAN,"Increase 4G coverage to 95% of the UK by end of 2025 by focusing in rural areas
+280,000 households and 16,000 km of roads across the country.
+Roaming 4.5G ","Public-private partnership involving all the MNOs in the country through Digital Mobile Spectrum Limited (DMSL), a partnership of EE, O2, Three and Vodafone.
+Existing masts to be shared by all four MNOs, in areas where some, but not all, MNOs have coverage. New sites to be funded by the Department for Digital, Culture, Media and Sport (DCMS).
+MNOs will invest £532m, UK Government will provide £500m 
+Obligations to 700 MHz and 3.6-3.8 GHz spectrum auctions were removed for the MNO involved.",Active,2021,"Rural, Ultra-Rural"
+bco_network,Ireland,BCO Network,Ireland,AT&T and Vodafone,MNO/MVNO Wholesale,Mobile OAN,Smart Docklands is working on the creation of a 5G testbed in the Docklands to simply future deployments of wireless infrastructure in the city,"Dublin City Council decided to partner with Dense Air, a wholesale cellular neutral host provider.
+The trial Network is composed of twenty outdoor and ten indoor  small cells 
+Test cutting-edge solutions to find replicable models  for cities like London
+Awarded with the 2019 Small Cell Forum Award for Social Impact
+In progress with more than 250 stakeholders",Active,2018,High-ARPU Urban
+turkcell,Turkey,TURKCELL,Turkey,All MNOs in the Country,MNO/MVNO Wholesale,Mobile OAN,"GSM Target coverage: cover 1796 settlements with less than 500 pop 
+25-year GSM license contract ","The GSM  Network  was ready in 2016, three years after the license allocation
+GSM Network deployment cost was 66% lower than the construction of  individual networks per MNO in rural environments 
+After project’s success, TurkCell is upgrading the network to 4.5G (LTE Advanced)",Active,2013,"Rural, Ultra-Rural"
+bai_communication_sunderland_smart_city,UK,Bai Communication / Sunderland Smart City,UK,MNOs in the Country,MORAN/MOCN,Mobile OAN,"Launch a 5G smart-city Network  in Sunderland to provide digital services:
+Manufacturing and Industry 4.0
+Digital Skills and Education
+Smart Homes","The network ownership will be based on a 20-year public-private partnership (PPP) between Bai Communications and the Sunderland City Council
+The Network will be driven by Open vRAN and Cloud-Native Packet Core solutions..
+At the beginning, the 5G Fixed Wireless Access Network will use only unlicensed spectrum. Future Small Cells Deployments will require a Mobile Network Operator (MNO) partners with spectrum license.
+The city is trialing autonomous heavy goods vehicles for the last-mile transfer of goods between the Nissan supply chain and the Sunderland Nissan car manufacturing plant.",Active,2021,"Low-ARPU Urban, High-ARPU Urban"
+altan_redes,Mexico,Altan Redes,Mexico,"Telefonica, Izzi, BlueTelecomm + Other MVNOs",MNO/MVNO Wholesale ,Single Wholesale Network,"79,725,415 POPs including Social Coverage to 108,075 locations, this includes 95,940 towns populated by less than 250 people.
+Roaming: 4.5G","Operates as a Public-Private Partnership
+90 MHz in the 700 MHz spectrum band allocated to Altan.
+Part of a telecommunications reform to promote competition, price reduction and service penetration, avoiding the dominance of the incumbent America Movil.
+92.2% coverage milestone, is being delayed from 2024 to 2028 due to lack of financial resources.
+Requested a $50 million loan after filing for bankruptcy.",Active,2016,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban"
+malaysian_single_wholesale_network_,Malaysia,Malaysian Single Wholesale Network,Malaysia,"Celcom Axiata, Digi.Com, Maxis, Telekom Malaysia and U Mobile Sdn & 10 MVNOs",MNO/MVNO Wholesale,Single Wholesale Network ,"The Single wholesale network will provide 5G connectivity to the entire country
+10,167 sites to cover 90% of the country with 5G connectivity.","Digital Nasional Berhad (DNB) created by the government to build and operate a nationwide 5G network.
+700 MHz, 3.5 GHz and 28 GHz frequency bands completely allocated to DNB.
+By the end of 2022, DNB will have the capability to integrate 12 operators (MNOs + MVNOs) into its 5G network.
+Prohibition to re-farm the current MNO’s spectrum to provide 5G services raises concerns about efficiency to support the traffic.
+Under the proposed pricing plan is cheaper for the MNO’s roll out their own 5G Network",Active,2021,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban"
+bruneis_unified_national_networks,Brunei,Brunei’s Unified National Networks,Brunei,"Imagine (Telekom Brunei/TelBru), DSTCom, B-Mobile and Progresif (Progresif Cellular)",MNO/MVNO Wholesale | FTTH Wholesale | IP/Ethernet Services,Single Wholesale Network,"4G, 3G and 2G services in 90% of populated areas and roads.
+Broadband infrastructure consisting of 3,000km of fiber, connecting over 93,000 homes
+Total households in Brunei: 437k pops","Organization 100% owned by the monarchy government.
+All the network infrastructure was appropriated by the government to offer a neutral host, wholesaling Fixed, Mobile, Voice and Data services.&&
+The three telcos were already state-owned before the formation of UNN. 
+Broadband infrastructure consisting of 3,000km of fiber, connecting over 93,000 homes
+Total households in Brunei: 437k pops&&
+Currently expanding its network with 120 new sites over the next three year",Active,2018,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban"
+kt_rwanda_networks_ltd,Rwanda,KT Rwanda Networks Ltd,Rwanda,"MTN, Tigo/Airtel,  RTN, FASNET, G-MAX among others",MNO/MVNO Wholesale | IP/Ethernet Services,Single Wholesale Network ,"By 2018, it was reported 95% of the country's population covered.
+MPLS Network over 400 km of fiber","KT Rwanda Networks is an initiative created by the Government of Rwanda and operated by Korea Telecom.
+Single wholesale network operating in the 800 MHz and 1800 MHz bands
+Still operating, the 4G Network was deployed in 3.5years and now covers 95% of the population.",Active,2013,"Rural, Ultra-Rural, Low-ARPU Urban"
+yota,Russia,YOTA,Russia,"MTS, Vimpelcom, Megafon and state-owned Rostelecom",MNO/MVNO Wholesale,Single Wholesale Network ,LTE Network was expected to cover 180 cities with more than 70 million inhabitants by 2014,"PPP owned by a private investment company (74.9%) and the Russian  state-owned company Rostechnologii, (24.1%)
+Received the first license to provide LTE services in Russia in 700 MHz, 800 MHz and 2.6 GHz frequency bands
+700 and 800  MHz spectrum was withdrawn from other MNOs.&&
+Unsuccessful implementation since Yota was competing for retail customers pushing operators to decline/cancel agreements.",inactive,2011,"Rural, Ultra-Rural, Low-ARPU Urban"
+kenya_single_wholesale_network_,Kenya,Kenya Single Wholesale Network,Kenya,Main Telecom operators in Kenya,MOCN,Single Wholesale Network ,The network was intended to provide 4G broadband connectivity to 98% of the country,"The network ownership would be based on a public-private partnership (PPP).
+The new  consortium would fund, own and operate the network using 700 MHz and 800 MHz spectrum bands.
+Constant delays and lack of agreements between partners slowed down negotiations which created confidence issues among investors.
+In 2013 Safaricom – Kenya’s largest telecommunications provider – pulled out of the deal to focus on its own 4G deployment.
+The project has been abandoned although no official announcement has been made.",inactive,2011,"Rural, Ultra-Rural, Low-ARPU Urban"
+icasa_wireless_open_access_network_(woan),South Africa,ICASA Wireless Open Access Network (WOAN),South Africa,"All MNOs in the Country
+(On hold)",MNO/MVNO Wholesale,Single Wholesale Network,Nationwide 5G coverage,"Independent Communication Authority of South Africa (ICASA) project initiated in 2019 to establish a WOAN in South Africa
+In 2020, Due to the pandemic, ICASA allocated temporary spectrum licenses till November 2021
+In 2020, ICASA published the Invitations to Apply (ITAs) for the licensing of the wireless open access network (WOAN), Telkom presented an interdict arguing that the ITA could allow  the dominance of Vodacom and MTN.
+In October 2021, The Court granted an Order to review the ITA starting a process to consult stakeholders on key aspects regarding the licensing to amend or re-issue the current agreements
+In 2022, the updated ITA will be published for the purpose of operating a WOAN",Pending,2019,"Rural, Ultra-Rural, Low-ARPU Urban"
+becloud,Belarus,beCloud,Belarus,"A1, MTS, life",MNO/MVNO Wholesale,Single Wholesale Network,"4G
+Current: 95% of the population and 57% of the territory of Belarus.
+3,047 Sites","It uses three operating bands to support LTE coverage, 800MHz, 1800MHz and 2600MHz 
+It is the first infrastructure operator in Belarus.
+It started as an alternative to state monopolist “Beltelekom”.
+51% is owned by the state, and the other 49% belongs to anonymous offshores.",Active,2012,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban"
+utopia,USA,Utah Telecommunication Open Infrastructure Agency (UTOPIA),USA,"11 CSPs – Residential
+30 CSPs – Business",FTTH Wholesale,Fixed OAN,"UTOPIA was founded by a consortium of 16 Utah cities
+UTOPIA network passes about 100,000 premises and has more than 40,000 subscribers, providing residential/business broadband service in 15 cities","In the last 12 years, UTOPIA has designed, built, and financed nearly $400M worth of fiber projects.
+CSPs offer internet services for prices that are generally between $65 and $78 per month (the price includes flat fee + symmetrical service)
+$30 flat fee | $35 for 250 Mbps | $48 for 1 Gbps&&
+UTOPIA recently started offering 10 Gbps service.
+UTOPIA suffered low take-rates and corresponding financial problems in its early years. 
+Subscriber revenues are now able to pay debt for projects that begun since 2009&&
+UTOPIA is growing rapidly, passing an average of a thousand new homes per month.",Active,2002,"Rural, Low-ARPU Urban"
+huntsville_utilities_fiber,USA,Huntsville Utilities Fiber,USA,Google Fiber,"Dark Fiber 
+Leasing",Fixed OAN,"Huntsville Utilities, owned by the city of Huntsville operates over 1,200 miles of a fiber optic network.
+Fiber network connects 4,500+ residence and business in the city but not directly connecting the properties. 
+CSPs can lease Huntsville’s fiber and attach customers to it","Huntsville Utilities invested ~$60M
+Google Fiber leases part of the network with a nonexclusive arrangement that allows other CSPs to lease fiber from the city (Huntsville Utilities) as well.
+Google Fiber pays for a substantial portion of the cost of Huntsville’s network deployment and connect customers to a FTTH internet service
+BroadbandNow rates Huntsville as the most connected city in the entire state",Active,2016,"Rural, Low-ARPU Urban"
+ammon_fiber_optic_utility,USA,Ammon Fiber Optic Utility,USA,"Sumo Fiber Internet & Phone, Fybercom Fiber Speed Internet, Direct Communications and QWK.net","FTTH 
+Wholesale",Fixed OAN,"The city operates the fiber network that provides broadband services to 1,200 households and 100 businesses","Ammon city provides an automated OAN where the users can use a web interface to switch providers in less than a minute. 
+These CSPs do not need to install any hardware at their customers’ premises; they offer their services via virtual networks.&&
+Fiber network has received international attention for its low prices.
+When the network launched, the price for a gigabit was $99 per month with a 3-year contract.&&
+Now, the competition had driven the price down to $10 per month with no contract.&&
+Additionally, one CSP had begun offering a free 15 Mbps option.&&",Active,2016,Low-ARPU Urban
+noanet,USA,Northwest Open Access Network (NoaNet),USA,60+ CPSs,Wavelength Service and IP/Ethernet Services,Fixed OAN,"Statewide not-for-profit broadband network that has grown to about 3,300 miles, touching every county in Washington and connecting 260,000 people.
+The network also connects 2,000 community anchor institutions. ","In 2010, NoaNet was granted an infusion of $140 million in federal grants that helped to reach 170 communities
+NoaNet is owned by 9 public utility districts and 1 joint operating agency
+Because of Washington state barriers (before 2021), PUDs were not allowed to retail services directly to customers, so they employed an OAN approach.&&
+NoaNet has a statewide system in place for community surveys and demand aggregation to determine the need in a given community. 
+NoaNet supply a community with a project manager to help understand the results from the survey, market analysis and data on the economic impact of broadband.&&
+All to help local leaders make decisions when considering an OAN.&&",Active,2020,"Rural, Low-ARPU Urban"
+mid-atlantic_broadband_communities_corporation_(mbc),USA,Mid-Atlantic Broadband Communities Corporation (MBC),USA,45 CSPs,Wavelength Service and IP/Ethernet Services,Fixed OAN,"MBC operates 2,000-mile network that connects 41 counties across southern and southeastern Virginia","Since the foundation, MBC has received ~$70M of capital grants
+MBC has helped to bring more than 2,000 jobs and $3.3 billion of private sector investment to the region
+In 2014, MBC formed LIT Networks (Local to International Transport) to enable other fiber network providers to interconnect with MBC’s extensive network 
+LIT networks become a part of a larger network that incorporates revenue sharing as a business model. &&
+In 2018, MBC upgraded its Transport Network allowed to expand the line system capacity from 400 Gbps to 1.2 Tbps
+In 2021, MBC completed a 27-mile route providing wholesale of 10G and 100G.",Active,2004,"Rural, Low-ARPU Urban"
+microelectronics_center_of_north_carolina_(mcnc),USA,Microelectronics Center of North Carolina (MCNC),USA,20+ CSPs,"Dark Fiber Leasing, Wavelength Service and IP/Ethernet Services",Fixed OAN,"MCNC has expand the backbone network, supporting over 4,400 miles of fiber optic infrastructure to underserved and unserved communities in North Carolina
+MCNC provides network services in all 100 counties 
+1,000+ Community Anchor Institutions Served","MCNC has created one of America’s longest-running regional research and education network 
+MCNC provide broadband services to K-12 schools, healthcare institutions, libraries, cultural institutions, colleges and universities, among other anchor institutions.&&
+MCNC can manage the last-mile fiber construction from MCNC’s splice case to the customer connection point. 
+The managed service includes building, connecting, splicing, and testing the fiber connecting to MCNC’s fiber backbone network.&&
+MCNC offers 100Gbps service ",Active,2000,"Rural, Low-ARPU Urban"
+eastern_shore_of_virginia_broadband_authority_(esvba),USA,Eastern Shore of Virginia Broadband Authority (ESVBA),USA,8 CSPs,"FTTH 
+Wholesale",Fixed OAN,"ESVA was started by two counties, Northampton and Accomack, to provide broadband services on the Eastern Shore of Virginia
+The ESVBA is a public not for profit company that provide broadband services to 2,000+ residences ","ESVBA prioritizes residential fiber based on demand, installing  first where there will be the strongest revenue to support it. Therefore, the network was not designed based on social goals (e.g., cover anchor institutions)
+The backbone infrastructure was upgraded to support 100Gbps
+ESVBA absorbs significant capital cost that the ISPs would otherwise bear. 
+ESBVA offers high speed, fiber optic internet and access for as low as $40 per month.&&
+ESVBA has erected ~50 telecommunication towers to support multiple wireless service providers (WISPs)&&
+In 2021, the ESVBA has been awarded a Virginia Telecommunication Initiative (VATI) grant of $12.3 M to build out fiber network and provide access to 11,000+ locations in Accomack and Northampton counties",Active,2016,"Rural, Low-ARPU Urban"
+columbia_county_community_broadband_utility_(c3bu),USA,Columbia County Community Broadband Utility (C3BU),USA,6 CSPs,"Dark Fiber Leasing, Wavelength Service and IP/Ethernet Services",Fixed OAN,"C3BU network consists of 320 route miles of underground fiber in Columbia County Georgia
+Over 100 Anchor Institutions are connected using C3BU network","C3BU network offers adaptive fiber optic solutions at speeds ranging from 10Mbps to 10Gbps,
+C3BU directly serves Community Anchor Institutions and has partners with multiple providers for commercial and residential services.
+C3BU owns and operates 8 open-access communication towers. 
+C3BU works with WISP to place wireless broadband transmission devices near C3BU facilities&&",Active,2010,"Rural, Low-ARPU Urban"
+reykjavik,Iceland,Reykjavik,Iceland,"Vodafone, Hringdu, Hringiðan / Vortex, Símafélagið, 365 and Nova",FTTH Wholesale,Fixed OAN,70% of homes in Iceland and the entire Capital area,Owned by Reykjavik Energy. Reykjavik Energy is owned by the city of Reykjavik,Active,2005,"Rural, Low-ARPU Urban"
+siro,Iceland,SIRO,Iceland,"Digiweb, sky, vodafone, viatel, airwire, fastcom, pure telecom, westnet among others, ",FTTH Wholesale,Fixed OAN,"Current: 420K + Premises Passed
+Target: 770,000 premises passed across 154 regional towns","Joint venture between ESB and Vodafone
+Initial investment of €450m to connect the first 50 towns. 
+In 2021, it received a second investment of  €620m to expand the Network across 154 towns. 
+The network is rolling out across the EBS's existing infrastructure.
+In 2021, SIRO was available at one in every two new homes built.
+Its initiative: Gigabit Hubs Initiative, provides 1 Gigabit connection to 16 remote working and enterprise centers, broadening the appeal of communities in regional Ireland to companies looking to relocate their company outside of major cities.",Active,2015,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban"
+mauritanian_national_backbone_network,Maritania,Mauritanian National Backbone Network,Maritania,---,---,Fixed OAN,Deployment finished in 2021,"Project part of the West African Regional Communications Infrastructure Programme (WARCIP) financed by the World Bank.
+The national broadband network was constructed by ZTE",Active,2018,"Rural, Ultra-Rural, Low-ARPU Urban"
+oman_broadband_company,Oman,Oman Broadband Company,Oman,"Omantel, Ooredoo and Awasr",FTTH Wholesale,Fixed OAN,"Current: 54% of urban regions (369,439 homes/premises) 4,097 km and 9,535 km drop cables
+Target: 95% of urban regions by 2030","Company owned by the Government of the Sultanate of Oman
+In 2021, it announced two tenders to extent the Network
+No public subsidies were used in the initial deployment, all equity in the first two years was provided by the Ministry of Finance, with subsequent financing to be raised through debt from international markets.",Active,2014,"Low-ARPU Urban, High-ARPU Urban"
+nexera,Poland,Nexera,Poland,---,FTTH Wholesale | Dark Fiber Leasing,Fixed OAN,"1M households & almost 3,000 schools and educational units in over 1,300 localities in Regions: ?wi?tokrzyski; Kujawy, Pomorze and Mazowsze; Warmia and Mazury; and in the ?ódzki Region.","Partially financed with European Funds under the Digital Poland Operation Program (POPC)  the majority of the investment is covered by NEXERA shareholders: Infracapital and Nokia.
+Poland's first  wholesale telecommunications operator
+In 2021, Received an investment of over PLN 1 billion from the consortium of banks (The European Investment Bank, PKO BP Bank, Santander, BGK and ING)
+NEXERA is obliged to provide a connection to all schools covered by Digital Poland Operational Program (POPC) ",Active,2019,"Rural, Low-ARPU Urban"
+red_federal_de_fibra_optica_(refefo),Argentina,Red Federal de Fibra Optica (Refefo) ,Argentina,---,Wavelength Service | IP/Ethernet Services,Fixed OAN,"Current: 34,500km serving 20,750,904 POPs
+Target: 4,408km","The Inter-American Development Bank (IDB) will finance the expansion of Refefo with US$100mn.
+The Network was created as part of the governmental program “Argentina Conectada”
+Operate by Arsat, a government telecommunications company",Active,2010,"Rural, Ultra-Rural, Low-ARPU Urban"
+coatl,El Salvador,Coatl,El Salvador,---,Wavelength Service | Ip/Ethernet Services | Dark Fiber Leasing,Fixed OAN,"Initial Target: 218 rural schools serving 54,000 students
+Final Target:  1.2 million students by 2022","Public & Private Partnership (the government is looking for resources)
+Project driven by the Minister of Education and the Secretary of Innovation
+The Network will be developed in partnership with Nokia &  Caban Systems
+Coatl will act as a retailer in zones without retail operators
+In the first phase of the project, 50 access points were deployed connecting 218 schools 
+Coatl is looking to accelerate the deployment of 4G and 5G networks through the fixed broadband",Active,2021,"Rural, Ultra-Rural, Low-ARPU Urban"
+bnet,Bahrain,BNET,Bahrain,"All Operator in Bahrain (Batelco, STC, Kalaam, Rapid Telecom among others)",FTTH Wholesale | Wavelength Service |IP/Ethernet Services,Fixed OAN,Target:  100% of all businesses and 95% of all households,"In 2019, BNET separated from Batelco (the principal telecommunications company in Bahrain) as part of the government strategy to prioritize country-wide access to affordable Fiber broadband services.
+Project part of Bahrain’s 4th National Telecommunication Plan (NTP4)
+BNET offers special services for holders of an Individual Mobile Telecommunications License like: 
+Mobile Backhaul Service&&
+Fiber Fronthaul Service&&",Active,2019,"Rural, Ultra-Rural, Low-ARPU Urban"
+ufb_(ultra-fast_broadband),New Zealand,UFB (Ultra-Fast Broadband),New Zealand,"Orcon, Call Plus, Compass Communications, HD, Kiwilink, Snap, Telecom NZ, TrustPower among others.",FTTH Wholesale | Dark Fiber Leasing,Fixed OAN,"Current: 79%  of the population.
+Target: 87% of the population by the end of 2022","PPP between the government and four companies: Northpower Fibre, UltraFast Fibre, Enable Networks, Chorus. Private companies will deploy the fibre network $1.3 billion invested
+Program driven by Crown Fibre Holdings Limited (CFH), a Crown-owned company.
+Of the $1.3 billion invested in the program, $200 million has already been returned with a further $350 million to be returned by 2025.
+The main partner is Chorus, which won 69% of the rollout area",Active,2009,"Low-ARPU Urban, High-ARPU Urban"
+bofinet,Botswana,BOFINET,Botswana,"MTN, abaricom, BTC, Mascom, Beko Media among others",FTTH Wholesale | Ip/Ethernet Services,Fixed OAN,"Current: 206 Connected towns and villages. 10,600 km
+206 out of  399 cities, towns & villages","The project started after the government decided to break the Botswana Telecommunications Corporation (BTC) 's monopoly 
+The government is planning to partially privatize it.
+In 2020, It reported a profit after taxes of P37 million 
+Company wholly owned by Botswana's government",Active,2012,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban"
+national_broadband_network_(nbn),Australia,National Broadband Network (NBN),Australia,All Australian MNO’s & ISPs,FTTH wholesale | Dark Fiber Leasing,Fixed OAN,"The Optical fiber network passes 11.8 million premises remaining only 35,000 to be passed","The National Broadband Network (NBN) is a Wholesale only access network owned by the Australian government.
+Political discussion about the ownership models may starts in 2022 due to the elections
+NBN’s wholesales services includes a variety of broadband network technologies: FTTx, Fixed Wireless & SAT services
+Retail providers are disappointed with the NBN’s efforts to manage the technical crisis; final customers blamed them for NBN’s problems",Active,2007,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban"
+qatar_national_broadband_network_(qnbn),Qatar,Qatar National Broadband Network (QNBN),Qatar,Qtel and Vodafone among others,Dark Fiber Leasing,Fixed OAN,"QNBN aims to have 439,000 broadband lines by 2025 providing a minimum speed of 100 Mbps
+Provides connectivity to 30,000 residences and businesses in the West Bay area","Owned and administrated by the Ministry of Transportation & Communications of Qatar
+QNBN’s wholesales services includes GPON connections for homes and small business and Point to Point (P2P) connections for larger enterprises
+QNBN’s optic fiber network will cover the entire 8.5 km Barwa Commercial Avenue project, considered one of the longest single project strip developments in the world, with residential, commercial and retail zones including 640 stores, 730 offices and 540 residential units",Active,2011,"Rural, Ultra-Rural, Low-ARPU Urban, High-ARPU Urban"
+estwin,Estonia,EstWin,Estonia,All MNOs & ISPs in Estonia,Dark Fiber Leasing,Fixed OAN,"98% of rural households will be located within 1.5 km of one fiber-optic network access point. 
+The project includes laying over 6500 km of fiber-optic cables ","The project is financed by the Estonian Broadband Development and  Foundation and European Structural and Investment Funds (ESIF)
+Total cost of the project is estimated to be 6 billion Estonian kroons (384 million euros), a quarter will come from the ESIF.
+In 2021, EstWin will extend its Network to new areas like: Rapla county, Rapla municipality, Uusküla village; Harju county, Saue rural municipality, Vatsla and Hüüru villages; Harju county, Rae municipality, Kopli village.
+In 2021, EstWin is looking for a partner to maintain and manage the Network for the next 5 years ",Active,2009,"Rural, Ultra-Rural"
+open_fiber,Italy,Open fiber,Italy,"4ISP, Active Network, ACANTHO, ampersand, BBBell",FTTH Wholesale | IP/Ethernet Services | Wavelength Service ,Fixed OAN,"Currently connects 11.5 million households and  around 2,000 small and medium-sized municipalities in rural areas 
+FTTH network entirely in optical fiber with a connection speed of up to 1 Gbps","Created by Enel and Cassa Depositi e Prestiti (CDP), the Italian government investment bank
+It is  the third FTTH infrastructure player in the EU-28.
+Since its entry in the market  the number of cities with FTTH service increase from fewer than 30 in 2016 to more than 180",Active,2016,"Rural, Ultra-Rural, Low-ARPU Urban"
+red_dorsal,Peru,Red Dorsal,Peru,Bitel among others,Dark Fiber Leasing,Fixed OAN,"13,500km of fiber network  covering  180 cities","Total invesment of  US$ 333 millions through a public-private partnership model between the Peruvian government and the company Azteca Comunicaciones Perú S.A.C.
+Other operators build  their own fiber Networks covering zones in which the Red Dorsal planned to be the unique provider increasing the competition
+In 2020 only 3.2% of the Network was used generating only the 7.7% of the operating cost
+Low profitability due the high fixed rate policy
+In 2021, the Peruvian government unilaterally terminated the concession agreement with Azteca Comunicaciones Peru S.A.C (a valid termination clause under the agreement)",Active,2012,"Rural, Ultra-Rural, Low-ARPU Urban"
+barathnet,India,Barathnet,India,All MNOs & ISPs in India,Dark Fiber Sharing,Fixed OAN,"The Network will cover 250,000 Gram Panchayats (GPs) spread over 6,600 Blocks and 641 Districts
+169,018 GPs connected out of  178,317 GPs with Fiber Optic laid (Service Ready)
+Total Network length: 549,115 km ","Project divided in phase, phase one starts in 2011. Currently,  phase three is deploying
+In 2021, the Comptroller and Auditor General of India present a report pointed several issues:
+The lack of a fair and transparent bidding process&&
+The absence of GIS mapping of fiber laid&&
+The Poor Operation and Maintenance (O&M)&&
+In 2021, the government announce a  new tender (Public Private Partnership) to cover 360,000 Villages in 16 States",Active,2011,"Rural, Ultra-Rural"
+burundi_backbone_system,Burundi,Burundi Backbone System,Burundi,"Natel, Africell, Econet-Leo, CBINET, Spidernet ",Dark Fiber Leasing,Fixed OAN,"1,700 km of fiber cable covering 22 main sites including provinces and capitals.
+600 km of fiber deployed in Bujumbura (main city)","Created by the Government of Burundi and four telecom operators (Ucom Burundi, Africell Tempo, and Onatel) and an Internet Service Provider (CBINET) with the support of WorldBank.
+Currently, a tender to audit its Technical Infrastructure is open ",Active,2013,"Rural, Ultra-Rural, Low-ARPU Urban"
+tanzanias_national_ict_broadband_backbone,Tanzania,Tanzania’s National ICT Broadband Backbone,Tanzania,MNOs & ISPs in Tanzania,Dark Fiber Leasing,Fixed OAN,"7,910km of optical fiber in Tanzania and extends to the neighboring countries of Kenya, Uganda, Rwanda, Burundi, Malawi and Zambia. ","The Backbone is managed and operated by the Tanzania Telecommunications Corporation (TTCL Corporation)
+In 2021, Tanzanian government launched a USD 9.4 million fiber optic plant, the products manufactured will speed up the NICTBB deployment 
+Plans to extend the Network  to 15,000 kilometers  by 2025
+In 2021, feasibility studies are performed to extend the Network to Democratic Republic of the Congo.",Active,2009,"Rural, Ultra-Rural, Low-ARPU Urban"
+cellnex,France,Cellnex/Bouygues,France,Bouygues,IP/Ethernet Services,Independent Fixed NaaSCo,"Target:  31,500km ","Joint Venture between Cellnex & Bouygues,
+The new company will be 51% owned by Cellnex and 49% by Bouygues, with Cellnex holding 100% of the economic rights.
+Cellnex aims to invest €1 billion (US$1.08 billion) by 2027
+Bouygues Telecom will be the anchor tenant under a 30-year contract with a five-year extension
+It is expected to generate EBITDA of €80 million
+The Network will connect Bouygues' towers and edge facilities",Active,2020," Low-ARPU Urban, High-ARPU Urban"
+FSG,Australia,Field Solutions Regional Access Network (RAN),Australia," FSG, Optus, Vodafone and Telstra",MNO/MVNO Wholesale,Independent Mobile NaaSCo,Target: In the process of rolling out 200 sites,"FSG’s spectrum licenses cover 85% of the Australian landmass, with exclusions only coming in the metropolitan areas around Australia’s capital cities.
+In 2020, FSG was awarded 5G spectrum licenses in the mmWave (26GHz and 28GHz) bands
+It obtained $3.66M funding under Mobile Blackspots Round 5a to trial Regional Australia’s first Neutral Host mobile delivery model in partnership with Optus
+The Trial will be deployed along the Adventure Way QLD (Thargomindah to Cunnamulla)
+FSG selected Nokia and Mavenir as primary technology partners
+The Network will be utilized for enabling State and Federal Public Safety Mobile Broadband program",Active,2021,"Rural, Ultra-Rural"

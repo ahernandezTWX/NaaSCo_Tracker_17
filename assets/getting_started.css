@@ -1,0 +1,27 @@
+.logo-info-section-2 {
+  display: flex;
+}
+
+.P_GS{
+
+  margin: 0;
+}
+
+.title-results-2 {
+  font-family: apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+    sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  background-color: #29818c;
+  color: #fff;
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  padding: 8px 0;
+}
+
+.modal-body-2 {
+  display: flex;
+  flex-direction: column;
+}
+.modal-body-2-inner-container {
+  padding: 16px;
+}
