@@ -1,0 +1,6 @@
+dash
+dash_bootstrap_components
+plotly
+matplotlib
+pandas
+gunicorn

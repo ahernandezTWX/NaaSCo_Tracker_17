@@ -1,0 +1,50 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  
+env: 
+  AWS_REGION: "us-west-1"
+  IMAGE_TAG: ${GITHUB_SHA::8}
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Clone repo
+        uses: actions/checkout@v3
+        
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Login to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v1
+
+      # Runs a single command using the runners shell
+      - name: build docker file
+        run: docker build . --file Dockerfile --tag 314307014491.dkr.ecr.us-west-1.amazonaws.com/naas-tracker:${{ env.IMAGE_TAG }}
+
+      - name: push to ECR
+        run: |
+          docker push 314307014491.dkr.ecr.us-west-1.amazonaws.com/naas-tracker:${{ env.IMAGE_TAG }}
+          docker tag 314307014491.dkr.ecr.us-west-1.amazonaws.com/naas-tracker:${{ env.IMAGE_TAG }} 314307014491.dkr.ecr.us-west-1.amazonaws.com/naas-tracker:latest
+          docker push 314307014491.dkr.ecr.us-west-1.amazonaws.com/naas-tracker:latest
