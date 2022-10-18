@@ -664,6 +664,7 @@ external_scripts = [ {'src':"http://ajax.googleapis.com/ajax/libs/jquery/1/jquer
                     ]
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP],external_scripts=external_scripts)
+server = app.server
 #app = Dash(__name__)
 #BS = "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
 #app = Dash(__name__, external_stylesheets=[BS])
